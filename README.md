@@ -25,7 +25,7 @@ it's for everyone who need this review project use it if you want .
 - 3 button (previous , next , random)
   - ##### ( prev = move forword by increasing value by 1 )
   - ##### ( next = move backword by decreasing value by 1) 
-  - ##### ( random = show random persson using " Math.floor & Math.random " )
+  - ##### ( random = show random person using " Math.floor & Math.random " )
 
 
 
