@@ -241,6 +241,7 @@ main {
 #info {
   margin-bottom: 0.75rem;
 }
+/* previous & next button */
 .prev-btn,
 .next-btn {
   color: var(--clr-primary-7);
@@ -251,10 +252,13 @@ main {
   transition: var(--transition);
   cursor: pointer;
 }
+/* hover previous & next button */
 .prev-btn:hover,
 .next-btn:hover {
   color: var(--clr-primary-5);
 }
+
+/* random button */
 .random-btn {
   margin-top: 0.5rem;
   background: var(--clr-primary-10);
@@ -266,6 +270,7 @@ main {
   border-color: var(--clr-primary-5);
   cursor: pointer;
 }
+/* random button hover */
 .random-btn:hover {
   background: var(--clr-primary-5);
   color: var(--clr-primary-1);
